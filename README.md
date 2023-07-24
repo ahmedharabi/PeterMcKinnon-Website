@@ -20,7 +20,7 @@ Creating this website was a big learning experience for me in web development, a
 3. Enjoy exploring Peter McKinnon's world!
 
 ## Live Demo
-Check out the live demo [here]([https://your-username.github.io/peter-mckinnon-website](https://ahmedharabi.github.io/PeterMcKinnon-Website/)).
+Check out the live demo [here](https://ahmedharabi.github.io/PeterMcKinnon-Website/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
