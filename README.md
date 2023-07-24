@@ -4,11 +4,12 @@
 ![Peter McKinnon Website](peter%20mck%20stocks/website%20screenshot.jpg)
 
 ## Description
-This project is a personal tribute to the talented photographer and filmmaker, Peter McKinnon. As an ardent admirer of his work, I wanted to showcase some of the incredible products he sells. The website offers a visually appealing display of his mesmerizing photos and films, allowing visitors to get a glimpse of his remarkable talent.
+This project is something I made for fun. It's a website inspired by Peter McKinnon, who is an amazing photographer and filmmaker. A while ago, I designed how the website should look using a special program called Adobe XD. Now, after learning HTML and CSS for about a month and a half, I turned that design into a real website that you can visit online.
+Creating this website was a big learning experience for me in web development, and I'm happy to share it with you. I hope you enjoy exploring this tribute to Peter McKinnon and his incredible artistry.
 
 ## Features
 - Beautifully designed UI showcasing Peter McKinnon's products.
-- Explore an array of stunning photographs and captivating films.
+
 - Learn about Peter McKinnon and his inspiring journey.
 
 ![Product Showcase](./product_showcase.gif)
