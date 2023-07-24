@@ -22,7 +22,4 @@ Creating this website was a big learning experience for me in web development, a
 ## Live Demo
 Check out the live demo [here](https://ahmedharabi.github.io/PeterMcKinnon-Website/)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 Let's celebrate the artistry of Peter McKinnon together! 📸🌎
