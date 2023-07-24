@@ -1,7 +1,7 @@
 # petermckinnon.github.io
 
 
-![Peter McKinnon Website](peter mck stocks/website screenshot.jpg)
+![Peter McKinnon Website](peter%20mck%20stocks/website%20screenshot.jpg)
 
 ## Description
 This project is a personal tribute to the talented photographer and filmmaker, Peter McKinnon. As an ardent admirer of his work, I wanted to showcase some of the incredible products he sells. The website offers a visually appealing display of his mesmerizing photos and films, allowing visitors to get a glimpse of his remarkable talent.
