@@ -15,7 +15,7 @@ Creating this website was a big learning experience for me in web development, a
 ![Product Showcase](peter%20mck%20stocks/products%20section%20(2).jpg)
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/your-username/peter-mckinnon-website.git`
+1. Clone the repository: `git clone [https://github.com/your-username/peter-mckinnon-website.git](https://github.com/ahmedharabi/PeterMcKinnon-Website/tree/main)`
 2. Open `index.html` in your web browser.
 3. Enjoy exploring Peter McKinnon's world!
 
