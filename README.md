@@ -12,7 +12,7 @@ Creating this website was a big learning experience for me in web development, a
 
 - Learn about Peter McKinnon and his inspiring journey.
 
-![Product Showcase](./product_showcase.gif)
+![Product Showcase](peter%20mck%20stocks/products%20section.jpg)
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your-username/peter-mckinnon-website.git`
