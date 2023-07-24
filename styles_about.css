@@ -1,0 +1,164 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    height: 100vh;
+    background-color: black;
+    background-image: url(peter\ mck\ stocks/background2.jpg);
+    background-size:100%;
+    position: relative;
+    overflow: hidden;
+    /*filter: blur(5px);*/
+}
+.upper-bar{
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    /*animation: upbar 1.2s ease-out;*/
+}
+
+
+.lower-bar{
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    position: absolute;
+    bottom: 0;
+    /*animation: lowerbar 1.2s ease-out;*/
+}
+
+
+
+
+
+.navigation-menu{
+    font-family: "Tragic Marker";
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    right:-121px;
+    top:-11px;
+}
+.home{
+    
+    position: absolute;
+    left:800px;
+    top:32px;
+    transition: all 0.2s ease-in;
+}
+.products{
+    
+    position: absolute;
+    left:936px;
+    top:32px;
+    transition: all 0.2s ease-in;
+
+}
+.contact{
+    
+    /*display: inline;*/
+    position: absolute;
+    left:1102px;
+    top:32px;
+    transition: all 0.2s ease-in;
+    
+}
+.about{
+    
+    /*display: inline;*/
+    color:rgb(177, 177, 177) ;
+    position: absolute;
+    left:1263px;
+    top:32px;
+    transition: all 0.2s ease-in;
+    
+}
+.home:hover,.about:hover,.contact:hover,.products:hover{
+    color:rgb(177, 177, 177) ;
+    transform: scale(1.1);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.peter-pic{
+    height: 650px;
+    position: absolute;
+    transform: rotateY(180deg);
+    right: 410px;
+    bottom: -10px;
+    /*animation: pete 1s ease-in 0.4s;
+    animation-fill-mode: backwards;*/
+    
+}
+.text-about{
+    font-family: "tahu!";
+    font-size: 30px;
+    position: relative;
+    top:430px;
+    /*left:300px;*/
+    text-align: center;
+    color: white;
+}
+.social-media{
+    position: absolute;
+    right: 30px;
+    top :200px;
+    animation: pete 1s ease-out 0.2s;
+    animation-fill-mode: backwards;
+}
+.twit{
+    position: absolute;
+    top:137px;
+    right:4px
+}
+.fb{
+    position: absolute;
+    right: 4.5px;
+    top:79px;
+}
+.insta{
+    position: absolute;
+    top: 205px;
+    right:12.2px;
+}
+.barUpper{
+    background-color: aliceblue;
+    height: 93px;
+    width: 2.3px;
+    position: absolute;
+    right: 57px;
+    top :179px;
+    border-radius: 100px;
+    /*animation: barlow 1s ease-out;*/
+}
+.barLower{
+    background-color: aliceblue;
+    height: 93px;
+    width: 2.3px;
+    position: absolute;
+    right: 57px;
+    top :451px;
+    border-radius: 100px;
+    /*animation: barUp 1s ease-out;*/
+}
+
+

@@ -1,0 +1,194 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    height: 100vh;
+    background-color: black;
+    background-image: url(peter\ mck\ stocks/background2.jpg);
+    background-size:100%;
+    position: relative;
+    overflow: hidden;
+    /*filter: blur(5px);*/
+}
+.upper-bar{
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    /*animation: upbar 1.2s ease-out;*/
+}
+
+
+.lower-bar{
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    position: absolute;
+    bottom: 0;
+    /*animation: lowerbar 1.2s ease-out;*/
+}
+
+
+
+
+
+.navigation-menu{
+    font-family: "Tragic Marker";
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    right:-121px;
+    top:-11px;
+}
+.home{
+    
+    position: absolute;
+    left:800px;
+    top:32px;
+    transition: all 0.2s ease-in;
+}
+.products{
+    color:rgb(177, 177, 177) ;
+    position: absolute;
+    left:936px;
+    top:32px;
+    transition: all 0.2s ease-in;
+
+}
+.contact{
+    
+    /*display: inline;*/
+    position: absolute;
+    left:1102px;
+    top:32px;
+    transition: all 0.2s ease-in;
+    
+}
+.about{
+    
+    /*display: inline;*/
+    position: absolute;
+    left:1263px;
+    top:32px;
+    transition: all 0.2s ease-in;
+    
+}
+.home:hover,.about:hover,.contact:hover,.products:hover{
+    color:rgb(177, 177, 177) ;
+    transform: scale(1.1);
+   
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.p1{
+    height: 288px;
+    width: 263px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 30px;
+    left:616px;
+    top:240px;
+}
+.p2{
+    height: 288px;
+    width: 263px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 30px;
+    right:217px;
+    top:240px;
+}
+.p3{
+    height: 288px;
+    width: 263px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 30px;
+    left: 181px;
+    top:240px;
+}
+.p1-img{
+    height:160px;
+    position: absolute;
+    left:-455px;
+    top:24px;
+    z-index: 1;
+
+}
+.p2-img{
+    height:160px;
+    position: absolute;
+    left:-413px;
+    top:24px;
+    z-index: 1;
+
+}
+.p3-img{
+    height:160px;
+    position: absolute;
+    right:-852px;
+    top:24px;
+    z-index: 1;
+
+}
+.text-p1{
+    font-family: "Times New Roman";
+    position: absolute;
+    top:193px;
+    left:53px;
+    text-align: center;
+}
+.text-p2{
+    
+    font-family: "Times New Roman";
+    position: absolute;
+    top:200px;
+    left:16px;
+    text-align: center;
+    
+}
+.text-p3{
+    font-family: "Times New Roman";
+    position: absolute;
+    top:200px;
+    left:16px;
+    text-align: center;
+
+}
+.card-p1{
+    padding: 7px 15px;
+    background-color: #00FF66;
+    border-radius: 100px;
+    position: absolute;
+    top:240px;
+    left: 142px;
+    font-size: 15px;
+    transition: all 0.3s;
+    font-family: "Times New Roman";
+}
+.card-p1:hover{
+    /*background-color: #4bfa91;*/
+    transform: scale(1.09);
+}
+
+
+
